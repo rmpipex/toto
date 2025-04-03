@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/Y5jJ8jazmB.xml"
 
-************** PERU BITEL **************
+************** PERU **************
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/9fhFgLPZ/latinahdpe.png" group-title="🇵🇪 PERU", Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/9fhFgLPZ/latinahdpe.png" group-title="🇵🇪 PERU", Latina
@@ -72,7 +72,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 #EXTINF:-1 tvg-id="ovacion.pe" tvg-logo="https://i.postimg.cc/TYSKhmGH/ovacionpe.jpg" group-title="🇵🇪 PERU", Ovacion TV
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/playlist.m3u8
 
-************** REGIONAL BITEL **************
+************** REGIONAL **************
 
 #EXTINF:-1 tvg-id="504" tvg-logo="https://i.postimg.cc/m2c4qpFz/FMH-MOVIES.png" group-title="🇵🇪 REGIONAL", FMH Movies (peliculas)
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
@@ -343,7 +343,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/vigiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqTWPLB7/vigiltvpe.png" group-title="🇵🇪 REGIONAL", Vigil TV (tacna)
 https://live-evg25.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
 
-************** ENCODER PERU **************
+************** ENCODER **************
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zKw8YHx/Latina-Cl-sicos-2024.png" group-title="🇵🇪 ENCODER", Latina Clasicos
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
@@ -353,9 +353,9 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QMhFQkXj/americatvgo.png" group-title="🇵🇪 ENCODER", America TVGO
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=tPr7x2toBkJv9tb2oiGxsGoWdjahQ8Ix&sid=3PwFTI6etWzDNZ1TxpjJ2yRTl1IoLy8I&pid=eg63kDKbMqifcCrXSeuRetWWSnwLf6QO&an=tvGO-live&at=web-app&av=v6.0.151&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=940x529&without_cookies=false&listenerid=&dnt=true&access_token=qu68gBdIRFjB76YS2Seny7b3dGZdLX5X5g7op4qyVf6IUlB7GKdGIKWWWiY2XQYzKr00bxAflRc&adInsertionSessionId=e38feadc-ad39-45e9-9d2b-fd4a3eadd1e6
+https://mdstrm.com/live-stream-playlist/657fbe15e3ba9363bb07c6b4.m3u8?uid=fDuMsWVTszBv8HMC7IqNNorvdvIIgGrR&sid=YaYKRx51tu8TesRnkG3xzmkQ1KPNBsyn&pid=e5Hr2Y5EJiGlWyBiRpTTEZTp4v80RDV9&an=tvGO-vod&at=web-app&av=v6.0.154&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=940x529&without_cookies=false&listenerid=&dnt=true&access_token=xhBpfynDHltkyknfFjNWWTYipNfa751zfGmhJTWqgjyo8tTRFtmvW2ccEVbPpWlKBqbOaoANJSf&adInsertionSessionId=02c54295-77fa-4a51-b934-b8479f15d7fa
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QMhFQkXj/americatvgo.png" group-title="🇵🇪 ENCODER", America TVGO
-https://mdstrm.com/live-stream-playlist/6345cad64a3f9e085788ab99.m3u8?uid=tPr7x2toBkJv9tb2oiGxsGoWdjahQ8Ix&sid=3PwFTI6etWzDNZ1TxpjJ2yRTl1IoLy8I&pid=BW64EDiUDFKHtiYKh4ynCxyEYg1f14bS&an=tvGO-live&at=web-app&av=v6.0.151&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1140x641&without_cookies=false&listenerid=&dnt=true&access_token=XckQXQonjRdt90Pst3eq8pl3KNgvFGF3DCVa2RLAYIqOpcRjO2lHlsZFIpUmOuTnZIUKklmgnPy
+https://mdstrm.com/live-stream-playlist/657fbe15e3ba9363bb07c6b4.m3u8?uid=fDuMsWVTszBv8HMC7IqNNorvdvIIgGrR&sid=YaYKRx51tu8TesRnkG3xzmkQ1KPNBsyn&pid=WXr8Xoxi3wodN1xO6TTQAn8hTQ4NbF7O&an=tvGO-vod&at=web-app&av=v6.0.154&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=940x529&without_cookies=false&listenerid=&dnt=true&access_token=3OzDaFl3otFNJRmmaIpKvxptSDz2as2IamsTRN5KqRGZE7uloevA6iVxoaNCQPkUl8WzD3WBcCz&adInsertionSessionId=145e8ffe-5055-453d-9f31-a3faf4a32857
 
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.postimg.cc/9fhFgLPZ/latinahdpe.png" group-title="🇵🇪 ENCODER", Latina
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8
