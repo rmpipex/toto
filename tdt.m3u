@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/Y5jJ8jazmB.xml"
 
 ************** PERU **************
-
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/9fhFgLPZ/latinahdpe.png" group-title="🇵🇪 PERU", Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/9fhFgLPZ/latinahdpe.png" group-title="🇵🇪 PERU", Latina
@@ -346,13 +345,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
 
 ************** ENCODER **************
 
-#EXTINF:-1 tvg-id="547" tvg-logo="https://i.postimg.cc/2jWKKFBH/nativadeportes.jpg" group-title="🇵🇪 ENCODER", Nativa Deportes
-https://www.ntv.pe/salida/nativa.m3u8
-#EXTINF:-1 tvg-id="547" tvg-logo="https://i.postimg.cc/wjzNxg0t/nativape.jpg" group-title="🇵🇪 ENCODER", Nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="547" tvg-logo="https://i.postimg.cc/QdYmp3Qt/liga2pe.jpg" group-title="🇵🇪 ENCODER", Liga 2 FPF
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zKw8YHx/Latina-Cl-sicos-2024.png" group-title="🇵🇪 ENCODER", Latina Clasicos
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hs1h3FZ2/Latina-Digital-2024-1.png" group-title="🇵🇪 ENCODER", Latina Digital
@@ -371,17 +363,29 @@ https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/wvmy0cVp/latinape.png" group-title="🇵🇪 ENCODER", Latina
 http://179.51.136.19:8000/play/a1as/index.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/wvmy0cVp/latinape.png" group-title="🇵🇪 ENCODER", Latina
+http://200.60.124.19:29000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/wvmy0cVp/latinape.png" group-title="🇵🇪 ENCODER", Latina
+http://200.60.124.19:29000/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/wvmy0cVp/latinape.png" group-title="🇵🇪 ENCODER", Latina
 http://45.236.151.86:3232/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://i.postimg.cc/0QfvmgSy/americape.png" group-title="🇵🇪 ENCODER", America
 http://179.51.136.19:8000/play/a1aq/index.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://i.postimg.cc/0QfvmgSy/americape.png" group-title="🇵🇪 ENCODER", America
 http://45.236.151.86:3232/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QMhFQkXj/americatvgo.png" group-title="🇵🇪 ENCODER", America TVGO
+http://200.60.124.19:29000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QMhFQkXj/americatvgo.png" group-title="🇵🇪 ENCODER", America TVGO
+http://200.60.124.19:29000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.postimg.cc/KzZSm9WS/panamericanape.jpg" group-title="🇵🇪 ENCODER", Panamericana
 http://179.51.136.19:8000/play/a0zl/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.postimg.cc/KzZSm9WS/panamericanape.jpg" group-title="🇵🇪 ENCODER", Panamericana
 http://45.236.151.86:3232/play/a0e5/index.m3u8
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.postimg.cc/KzZSm9WS/panamericanape.jpg" group-title="🇵🇪 ENCODER", Panamericana
+http://200.60.124.19:29000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://i.postimg.cc/dQ9W8fVp/atvpe.jpg" group-title="🇵🇪 ENCODER", ATV
 http://45.236.151.86:3232/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://i.postimg.cc/dQ9W8fVp/atvpe.jpg" group-title="🇵🇪 ENCODER", ATV
+http://200.60.124.19:29000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://i.postimg.cc/dQ9W8fVp/atvpe.jpg" group-title="🇵🇪 ENCODER", ATV
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://i.postimg.cc/dQ9W8fVp/atvpe.jpg" group-title="🇵🇪 ENCODER", ATV
@@ -396,14 +400,6 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 https://d3r5ioyjqcy69v.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.postimg.cc/YqgHfmYP/atvsurpe.jpg" group-title="🇵🇪 ENCODER", ATV Sur
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.postimg.cc/05HJLh6S/globaltvpe.jpg" group-title="🇵🇪 ENCODER", Global TV
-https://live-evg1.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.postimg.cc/05HJLh6S/globaltvpe.jpg" group-title="🇵🇪 ENCODER", Global TV
-https://live-evg1.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/playlist.m3u8
-#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.postimg.cc/ZnbZhRrf/willaxhdpe.png" group-title="🇵🇪 ENCODER", Willax
-https://live-evg1.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.postimg.cc/ZnbZhRrf/willaxhdpe.png" group-title="🇵🇪 ENCODER", Willax
-https://live-evg1.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/playlist.m3u8
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.postimg.cc/xdnLmCVL/tvperuanisimape.png" group-title="🇵🇪 ENCODER", Canal N - America
 https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.postimg.cc/xdnLmCVL/tvperuanisimape.png" group-title="🇵🇪 ENCODER", Canal N - America
@@ -412,6 +408,8 @@ https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 http://179.51.136.19:8000/play/a16u/index.m3u8
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.postimg.cc/63M2YZXn/canalnpe.jpg" group-title="🇵🇪 ENCODER", Canal N
 http://45.236.151.86:3232/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://i.postimg.cc/0QL4bcWy/tvperupe.jpg" group-title="🇵🇪 ENCODER", TV Peru
+http://200.60.124.19:29000/play/a0b9/index.m3u8
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://i.postimg.cc/0QL4bcWy/tvperupe.jpg" group-title="🇵🇪 ENCODER", TV Peru
 http://45.236.151.86:3232/play/a0e7/index.m3u8
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://i.postimg.cc/0QL4bcWy/tvperupe.jpg" group-title="🇵🇪 ENCODER", TV Peru
@@ -426,6 +424,16 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.postimg.cc/LsD4kMtb/canalipe.jpg" group-title="🇵🇪 ENCODER", Canal IPE Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.postimg.cc/05HJLh6S/globaltvpe.jpg" group-title="🇵🇪 ENCODER", Global TV
+https://live-evg1.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.postimg.cc/05HJLh6S/globaltvpe.jpg" group-title="🇵🇪 ENCODER", Global TV
+https://live-evg1.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/playlist.m3u8
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.postimg.cc/ZnbZhRrf/willaxhdpe.png" group-title="🇵🇪 ENCODER", Willax
+http://200.60.124.19:29000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.postimg.cc/ZnbZhRrf/willaxhdpe.png" group-title="🇵🇪 ENCODER", Willax
+https://live-evg1.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.postimg.cc/ZnbZhRrf/willaxhdpe.png" group-title="🇵🇪 ENCODER", Willax
+https://live-evg1.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/playlist.m3u8
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.postimg.cc/qRkHhWL1/exitosape.png" group-title="🇵🇪 ENCODER", Exitosa
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.postimg.cc/qRkHhWL1/exitosape.png" group-title="🇵🇪 ENCODER", Exitosa
@@ -434,6 +442,14 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w347768970.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/28qRZQQN/ovacionhd.png" group-title="🇵🇪 ENCODER", Ovacion TV
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.postimg.cc/2jWKKFBH/nativadeportes.jpg" group-title="🇵🇪 ENCODER", Nativa Deportes
+https://www.ntv.pe/salida/nativa.m3u8
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.postimg.cc/wjzNxg0t/nativape.jpg" group-title="🇵🇪 ENCODER", Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.postimg.cc/QdYmp3Qt/liga2pe.jpg" group-title="🇵🇪 ENCODER", Liga 2 FPF
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4fGS2Vb/Fox-Deportes.png" group-title="🇵🇪 ENCODER", Fox Deportes 🇲🇽
+https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hG0D6WWP/movistarplus.jpg" group-title="🇵🇪 ENCODER", Movistar Plus
 http://179.51.136.19:8000/play/a0zm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hG0D6WWP/movistarplus.jpg" group-title="🇵🇪 ENCODER", Movistar Plus
@@ -443,8 +459,7 @@ http://45.236.151.86:3232/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pLMRRcyQ/perumagico.jpg" group-title="🇵🇪 ENCODER", Peru Magico
 http://179.51.136.19:8000/play/a1gv/index.m3u8
 
-
-************** DECO REGIONAL ENCODER ************** 
+************** REGIONAL ENCODER ************** 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02RnVWZq/lospitufos.jpg" group-title="🇵🇪 REGIONAL", Los Pitufos (infantil)
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
@@ -619,6 +634,31 @@ https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
 
 ************** MUNDO & CULTURA **************
 
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/TYqfy4rb/canalrcn.jpg" group-title="🌎 MUNDO & CULTURA", Canal RCN ᴴᴰ 🇨🇴
+http://179.51.136.19:8000/play/a156/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtn1mX1S/canal13.jpg" group-title="🌎 MUNDO & CULTURA", Canal 13 ᴴᴰ
+http://179.51.136.19:8000/play/a0q8/index.m3u8
+#EXTINF:-1 tvg-id="CNN INTERNACIONAL.pe" tvg-shift="-5" tvg-logo="https://i.postimg.cc/fy8ryQJv/cnnint.jpg" group-title="🌎 MUNDO & CULTURA", CNN International ᴴᴰ
+http://179.51.136.19:8000/play/a0z7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPjxcjR/ecuadortvec.jpg" group-title="🌎 MUNDO & CULTURA", Ecuador TV ᴴᴰ 🇪🇨
+http://179.51.136.19:8000/play/a0t4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/9fvVXTvf/cnnes.jpg" group-title="🌎 MUNDO & CULTURA", CNN Español ᴴᴰ
+http://45.176.193.222:2405/play/a019
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/LX4WJgkf/canalrcn2.png" group-title="🌎 MUNDO & CULTURA", RCN 2
+http://190.60.32.178:8178/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/LX4WJgkf/canalrcn2.png" group-title="🌎 MUNDO & CULTURA", RCN 2
+http://190.61.42.218:9000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/tRMcgTsZ/canalrcn.jpg" group-title="🌎 MUNDO & CULTURA", RCN
+http://190.60.32.178:8178/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/tRMcgTsZ/canalrcn.jpg" group-title="🌎 MUNDO & CULTURA", RCN
+http://190.61.42.218:9000/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/j5XKMR2V/americaarg.png" group-title="🌎 MUNDO & CULTURA", America 🇦🇷
+http://200.60.124.19:29000/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-logo="https://i.postimg.cc/MTXfRmCx/cnnchile.png" group-title="🌎 MUNDO & CULTURA", CNN Chile
+http://200.60.124.19:29000/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-logo="https://i.postimg.cc/fbGvksZg/espn7hd.jpg" group-title="🌎 MUNDO & CULTURA", Clases Ingles
+http://45.184.87.142:8000/play/a024/index.m3u8
+
 #EXTINF:-1 tvg-id="FRANCE24.pe" tvg-shift="" tvg-logo="https://i.postimg.cc/tC9PkV7w/france24es.jpg" group-title="🌎 MUNDO & CULTURA", France 24 Español 🇪🇸
 https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="FRANCE24.pe" tvg-shift="" tvg-logo="https://i.postimg.cc/tC9PkV7w/france24es.jpg" group-title="🌎 MUNDO & CULTURA", France 24 Espaňol 🇪🇸
@@ -661,11 +701,11 @@ https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_576.m3u8
 
 ************** RELIGION **************
  
-#EXTINF:-1 tvg-id="0626" tvg-shift="" tvg-logo="https://i.postimg.cc/VvD6Wr3p/nuevotiempope.jpg" group-title="⛪ RELIGION", NUEVO TIEMPO LATINO #1
+#EXTINF:-1 tvg-id="0626" tvg-shift="" tvg-logo="https://i.postimg.cc/VvD6Wr3p/nuevotiempope.jpg" group-title="⛪ RELIGION", Nuevo Tiempo Latino
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="0626" tvg-shift="" tvg-logo="https://i.postimg.cc/VvD6Wr3p/nuevotiempope.jpg" group-title="⛪ RELIGION", NUEVO TIEMPO LATINO #2
+#EXTINF:-1 tvg-id="0626" tvg-shift="" tvg-logo="https://i.postimg.cc/VvD6Wr3p/nuevotiempope.jpg" group-title="⛪ RELIGION", Nuevo Tiempo Latino
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u81
-#EXTINF:-1 tvg-id="0626" tvg-shift="" tvg-logo="https://i.postimg.cc/VvD6Wr3p/nuevotiempope.jpg" group-title="⛪ RELIGION", NUEVO TIEMPO BRASIL #3
+#EXTINF:-1 tvg-id="0626" tvg-shift="" tvg-logo="https://i.postimg.cc/VvD6Wr3p/nuevotiempope.jpg" group-title="⛪ RELIGION", Nuevo Tiempo Brasil
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3abnlatino.tv/img/latino-radio.png" group-title="⛪ RELIGION", 3ABN LATINO NUEVO #1
@@ -948,11 +988,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC
 https://mdstrm.com/audio/6598b62dded1380470f4e539/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pJ402C/radio-turbo-mix.png" group-title="🎙️ RADIO", Radio Turbo Mix
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7624/stream
-
-
-
-
-
 
 
 
